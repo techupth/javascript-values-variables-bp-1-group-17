@@ -3,5 +3,4 @@ let celsius = 30;
 
 // Start coding here;
 
-let farenhein = (celsius*1.8)+32;
-
+let fahrenheit;
